@@ -1,2 +1,2 @@
 # pongClone
-Creating a Pong Game using JavaScript
+Creating a Pong Game using Javascript
